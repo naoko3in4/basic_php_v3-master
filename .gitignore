@@ -1,0 +1,6 @@
+*.license
+dist/
+.DS_Store
+
+.vscode/*
+!.vscode/setting.json
